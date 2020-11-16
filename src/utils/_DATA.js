@@ -104,7 +104,7 @@ let polls = {
   "loxhs1bqm25b708cmbf3g": {
     id: 'loxhs1bqm25b708cmbf3g',
     question: "Which artist do you prefer?",
-    author: 'tylermcginnis',
+    author: 'sergiodev',
     timestamp: 1482579767190,
     a: {
       text: 'Chance the Rapper',
@@ -126,11 +126,11 @@ let polls = {
   "vthrdm985a262al8qx3do": {
     id: 'vthrdm985a262al8qx3do',
     question: "Where is the best place to live?",
-    author: 'tylermcginnis',
+    author: 'sergiodev',
     timestamp: 1489579767190,
     a: {
       text: 'Eden, Utah',
-      votes: ['tylermcginnis'],
+      votes: ['sergiodev'],
     },
     b: {
       text: 'Kauai, HI',
@@ -160,7 +160,7 @@ let polls = {
     },
     c: {
       text: 'Oprah Winfrey',
-      votes: ['tylermcginnis'],
+      votes: ['sergiodev'],
     },
     d: {
       text: 'Dwayne Johnson',
