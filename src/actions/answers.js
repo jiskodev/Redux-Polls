@@ -1,4 +1,4 @@
-import { savePoll, savePollAnswer } from '../utils/api'
+import { savePollAnswer } from '../utils/api'
 import { showLoading, hideLoading } from 'react-redux-loading'
 
 export const ADD_ANSWER = 'ADD_ANSWER'
